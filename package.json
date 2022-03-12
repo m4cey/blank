@@ -1,0 +1,14 @@
+{
+  "name": "sftp-server",
+  "version": "1.0.0",
+  "description": "start and keep running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mace#0041",
+  "license": "ISC",
+  "dependencies": {
+    "respawn": "^2.6.0"
+  }
+}
